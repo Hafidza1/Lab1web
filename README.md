@@ -1,6 +1,29 @@
 # Lab1web
 
- membuat file dasar terlebih dahulu dengan menggunakan html yang ada pada vscode, Kemudian coba untuk buka file pada browser yang di inginkan saya disini menggunakan chrome 
+ ```
+<!-- Ini adalah paragraf pertama -->
+<p>Kami sedang belajar HTML dasar, pada matakuliah Pemograman Web di Prodi Teknik Informatika
+ Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
+dalam rangka mengenal tag-tag dasar HTML.</p>
 
-![gambar1](WEB-GAMBAR/web2.png)
 
+<!-- Ini adalah paragraf kedua-->
+<p>Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat
+ yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
+```
+
+![gambar1](Lab1web.png)
+
+```
+<!-- Ini adalah paragraf pertama -->
+<p align=”center”>Kami sedang belajar HTML dasar, pada matakuliah Pemrograman
+Web di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama
+yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
+tag-tag dasar HTML.</p>
+<!-- Ini adalah paragraf kedua -->
+<p align=”right”>Ini merupakan sebuah paragraf yang terdiri dari beberapa
+kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
+dengan menggunakan tag dasar html.</p>
+```
+
+![gambar1](Labweb5.png)
